@@ -1,9 +1,9 @@
 #----------------------------------------------#
 # 网站标题
-title: 我的网站
+title: "汤圆·咖啡"
 
 # 网站简短描述
-description: 网站简短描述
+description: "猫、狗、计算机杂谈"
 
 # 网站根路径
 #baseurl: ""
@@ -14,13 +14,12 @@ description: 网站简短描述
 # 导航栏菜单
 navbar-links:
   "关于我们": "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  "推荐资源":
+    - "资源001": "http://deanattali.com/beautiful-jekyll/"
+    - "资源002": "http://www.markdowntutorial.com/"
+  "其他": "http://deanattali.com"
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
+# 标题中心头像
 avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
