@@ -5,6 +5,25 @@
     <link>https://vbcc2001.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vbcc2001.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jan 2022 23:15:54 +0800</lastBuildDate><atom:link href="https://vbcc2001.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://vbcc2001.github.io/post/first/</link>
+      <pubDate>Tue, 18 Jan 2022 23:15:54 +0800</pubDate>
+      
+      <guid>https://vbcc2001.github.io/post/first/</guid>
+      <description>Hello Hugo  aaa bbb ccc  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vbcc2001.github.io/about/</link>
+      <pubDate>Tue, 18 Jan 2022 23:08:33 +0800</pubDate>
+      
+      <guid>https://vbcc2001.github.io/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
